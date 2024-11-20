@@ -91,4 +91,8 @@ Author: rimando0827 <kasaharashojirou@gmail.com>
 Date:   Tue Nov 19 22:41:49 2024 +0900
 
     hello_world.txtを追加しました
+
+PS C:\Users\Owner\Desktop\SAMURAI\assignment\git_challenge> git log --oneline
+9e85d96 (HEAD -> main) 日本語訳を追記
+1055f08 hello_world.txtを追加しました
 PS C:\Users\Owner\Desktop\SAMURAI\assignment\git_challenge> 
